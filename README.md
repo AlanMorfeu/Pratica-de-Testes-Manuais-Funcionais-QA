@@ -1,0 +1,1 @@
+# Pratica-de-Testes-Manuais-Funcionais-QA
